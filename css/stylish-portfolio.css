@@ -14,7 +14,7 @@ body {
 }
 
 body {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Asar', serif;
 }
 
 .text-vertical-center {
@@ -177,6 +177,10 @@ hr.small {
 
 .service-item {
     margin-bottom: 30px;
+}
+
+.fa-handshake-o, .fa-camera, .fa-video-camera, .fa-users, .fa-phone, .fa-language  {
+  color: #337ab7;
 }
 
 /* Callout */
